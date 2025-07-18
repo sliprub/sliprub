@@ -1,8 +1,7 @@
 ## Hello World!
 "Welcome to [github.com], may I take your order?"
-
 I'm a [pickle], and he's a [pickle], and she's a [pickle], and we're all [pickle], hey!.
-- sliprub on Ed from Good Burger
+  - sliprub on Ed from Good Burger
 
 <!--
 **sliprub/sliprub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
